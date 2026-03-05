@@ -1,54 +1,60 @@
-# Meus Estudos
+# 📚 Meus Estudos
 
-🔗 Repositório: [https://github.com/SEU_USUARIO/meus-estudos](https://github.com/SEU_USUARIO/meus-estudos)
-
----
-
-## Sobre
-
-Este repositório é dedicado a **guardar todos os exercícios e desafios que fiz em cursos e na faculdade**, além de **anotações importantes**, organizados por **pastas separadas para cada assunto ou curso** que realizei.  
-
-O objetivo é centralizar todo o meu aprendizado em um único lugar, facilitando revisões, consultas e prática contínua.
+🔗 Repositório: [https://github.com/nataliarodriguesz/meus-estudos](https://github.com/SEU_USUARIO/meus-estudos)
 
 ---
 
-## Estrutura
+## ✨ Sobre
+Este repositório é dedicado a armazenar **exercícios, desafios, projetos e anotações** de cursos e da faculdade.  
 
-Cada pasta do repositório corresponde a um **curso ou assunto**, por exemplo:
-meus-estudos/
+O objetivo é **centralizar meu aprendizado** em um só lugar, facilitando revisões, consultas e prática contínua.
+
+---
+
+## 🗂 Estrutura do Repositório
+Cada pasta representa um curso ou assunto. Atualmente, estão organizadas do **mais recente para o mais antigo**:
+```meus-estudos/
 │
-├── Java-iniciante/
-├── Java-intermediario/
-├── Algoritmo/
-├── HTML5-CSS3/
-├── Logisim/
-├── Visualg/
-└── Dev-C++/
+├── JAVA-iniciante/
+├── JAVA-intermediário/
+├── dev-C++/
+├── logisim/
+└── visualg/ 
+```
 
 
-Dentro de cada pasta você encontrará exercícios, desafios, projetos práticos e anotações.
+Dentro de cada pasta, você encontrará:  
+- ✅ Exercícios e desafios práticos  
+- 📁 Projetos desenvolvidos  
 
 ---
 
-## Estudos realizados e em andamento
+## 📌 Progresso dos Estudos
 
-- **Algoritmo** 
-- **Visualg** 
-- **Logisim**  
-- **Dev-C++**
-- **Java - Iniciante**  
-- **Java - Intermediário**  
-- **HTML5 e CSS3**  
+```
+| Curso / Assunto       | Status                 | Observações                       |
+|-----------------------|----------------------- |-----------------------------------|
+| HTML5 e CSS3          | 🔄 Em andamento       | Estrutura, estilização e layout    |
+| JAVA - Iniciante      | ✅ Concluído          | Exercícios e projetos básicos      |
+| JAVA - Intermediário  | ⚪ Em prática         | Foco em POO e coleções             |
+| Dev-C++               | ⚪ Em prática         | Estruturas de dados e lógica       |
+| Logisim               | ✅ Concluído          | Circuitos lógicos e simulações     |
+| Visualg               | ✅ Concluído          | Algoritmos básicos e exercícios    |
+```
+
 ---
 
-## Como usar
+## 🚀 Como Usar
+1. Clone o repositório:
 
-1. Clone o repositório:  
 ```bash
-git clone https://github.com/SEU_USUARIO/meus-estudos.git
+git clone https://github.com/nataliarodriguesz/meus-estudos.git
+```
 
-Navegue pelas pastas correspondentes ao assunto/curso que deseja estudar ou revisar.
+2. Navegue pelas pastas correspondentes ao assunto ou curso que deseja estudar ou revisar.
 
-Consulte os exercícios, anotações e desafios organizados por pasta.
+3. Consulte exercícios, projetos e anotações organizados por pasta.
 
-📌 Observação: Este repositório é uma ferramenta pessoal de estudo, mas o conteúdo pode ser útil para qualquer pessoa que esteja aprendendo os mesmos assuntos.
+⚠️ Observação
+
+Este repositório é uma ferramenta pessoal de estudo, mas o conteúdo pode ser útil para qualquer pessoa que esteja aprendendo os mesmos assuntos.
