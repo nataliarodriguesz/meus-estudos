@@ -29,6 +29,23 @@ Dentro de cada pasta, você encontrará:
 
 ---
 
+
+## 📤 Navegação html-css
+
+Para acessar os sites criados durante o curso de HTML e CSS, utilize o seguinte link base:
+
+https://github.com/nataliarodriguesz/meus-estudos/tree/main/html-css/desafios
+
+Basta acrescentar ao final da URL o nome do respectivo exercício para navegar entre os projetos.
+
+### 🔎 Exemplo:
+
+Se quiser acessar um exercício específico, como `ex001`, a URL ficará assim:
+
+https://github.com/nataliarodriguesz/meus-estudos/tree/main/html-css/desafios/exc01
+
+
+
 ## 📌 Progresso dos Estudos
 
 ```
