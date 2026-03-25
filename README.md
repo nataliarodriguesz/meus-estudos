@@ -1,6 +1,6 @@
 # 📚 Meus Estudos
 
-🔗 Repositório: [https://github.com/nataliarodriguesz/meus-estudos](https://github.com/SEU_USUARIO/meus-estudos)
+🔗 Repositório: [https://github.com/nataliarodriguesz/meus-estudos](https://github.com/nataliarodriguesz/meus-estudos)
 
 ---
 
