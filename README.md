@@ -40,9 +40,9 @@ Basta acrescentar ao final da URL o nome do respectivo exercício para navegar e
 
 ### Exemplo:
 
-Se quiser acessar um exercício específico, como `ex001`, a URL ficará assim:
+Se quiser acessar um desafio específico, como `desafio001`, a URL ficará assim:
 
-https://nataliarodriguesz.github.io/meus-estudos/html-css/desafios/exc01
+https://nataliarodriguesz.github.io/meus-estudos/html-css/desafios/desafio001
 
 ---
 
