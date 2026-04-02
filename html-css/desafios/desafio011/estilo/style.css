@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    position: relative;
+    background-color: black;
+    background-image: url('../imagens/espaco.jpg');
+
+    height: 100vh;
+    margin: 0;
+
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#astronauta {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 300px;
+    max-width: 80vw;
+}
